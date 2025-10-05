@@ -30,5 +30,5 @@ flet run
 <div>
     <img src="./media/screenshot1.png" width="30%"/>
     <img src="./media/screenshot2.png" width="30%"/>
-    ![alt text](media/screenshot3.png)
+    <img src="./media/screenshot3.png" width="30%"/>
 </div>
